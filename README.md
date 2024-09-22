@@ -1,6 +1,4 @@
 # Credit-Card-Fraud-Detection
-
-# Credit-Card-Fraud-Detection-ML
 Credit Card Fraud Detection using Logistic Regression 
 * By - __Abhigyan Kumar__
 * Project - Credit Card Fraud Detection 
